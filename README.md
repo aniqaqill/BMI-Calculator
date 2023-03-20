@@ -1,6 +1,4 @@
-# cubacuba
-
-A new Flutter project.
+# cubacuba - my first flutter application
 
 ## Getting Started
 
