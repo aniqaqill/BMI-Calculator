@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.deepOrange,
       ),
       // home: const MyHomePage(title: 'Aniq BMI Calculator'),
-      home: BMICalculator(),
+      home: const BMICalculator(),
     );
   }
 }
