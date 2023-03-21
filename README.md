@@ -1,8 +1,8 @@
-# cubacuba - my first flutter application
+# BMI Calculator - my first flutter application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for my Flutter application in my third year second semester.
 
 A few resources to get you started if this is your first Flutter project:
 
