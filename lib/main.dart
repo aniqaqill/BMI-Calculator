@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'BMI Calculator',
       theme: ThemeData(
-        primarySwatch: Colors.deepOrange,
+        primarySwatch: Colors.deepPurple,
       ),
       // home: const MyHomePage(title: 'Aniq BMI Calculator'),
       home: const BMICalculator(),
